@@ -1,12 +1,12 @@
 repaso de todos los comandos de git 
 comandos:
-1
-2
-3
-4
-5
-6
-7
-8
+1 git init // iniciar repositorio 
+2 git status // se utiliza para mostrar el estado actual del repositoreo
+3 git add . //sirve para preparar los cambios que has realizado
+4 git config --global user.name //sirve para establecer el nombre de usuario
+5 git config --global user.email // se utiliza para establecer la dirección de correo
+6 git commit -m "" // se utiliza para guardar los cambios que has preparado
+7 git push -u origin master
+8 git log 
 9
  
