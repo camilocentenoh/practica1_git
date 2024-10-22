@@ -1,0 +1,9 @@
+comandos:
+1 git init 
+2 git status 
+3 git add . 
+4 git config --global user.name 
+5 git config --global user.email 
+6 git commit -m "" 
+7 git push -u origin master
+8 git log 
